@@ -1,4 +1,4 @@
-# Day4-Lab1-Variables
+# Python-Lab1-Variables
 
 * Define a variable that has a value of your favourite season.
 * Define “x“ variable has an integer value and variable “y” has a float value.
